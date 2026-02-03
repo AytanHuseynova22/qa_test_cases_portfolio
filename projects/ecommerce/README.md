@@ -1,1 +1,1 @@
-E-commerce manual testing practice.
+Manual testing practice.
